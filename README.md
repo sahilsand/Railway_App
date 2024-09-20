@@ -26,8 +26,8 @@ You need to have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/sahilsand/Railway_App.git
+    cd Railway_App
     ```
 
 2. **Install dependencies**:
@@ -92,7 +92,7 @@ If you want to deploy this app using GitHub Pages:
 2. Add the following to your `package.json`:
     ```json
     {
-      "homepage": "https://yourusername.github.io/your-repo-name",
+      "homepage": "https://sahilsand.github.io/Railway_App",
       "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
@@ -105,7 +105,7 @@ If you want to deploy this app using GitHub Pages:
     npm run deploy
     ```
 
-4. Access your app at: `https://yourusername.github.io/your-repo-name`.
+4. Access your app at: `https://sahilsand.github.io/Railway_App`.
 
 ## Learn More
 
